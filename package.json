@@ -15,6 +15,7 @@
     "clsx": "^2.1.1",
     "next": "^15.2.4",
     "nodemailer": "^8.0.5",
+    "package.json": "^2.0.1",
     "razorpay": "^2.9.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
